@@ -1,1 +1,1 @@
-A set of i3 dotfiles
+A set of dotfiles
