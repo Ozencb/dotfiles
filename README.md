@@ -1,1 +1,1 @@
-A set of dotfiles
+i3wm and other various dotfiles
