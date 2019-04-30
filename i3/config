@@ -187,7 +187,7 @@ bar {
         statusline              $statusline
         active_workspace        $bg $seperator $text
         focused_workspace       $bg $seperator $text
-        inactive_workspace      $bg $bg $text
+        inactive_workspace      $seperator $text $seperator
         urgent_workspace        $bg-urgent $bg-urgent $text
     }
 }
