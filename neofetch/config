@@ -18,6 +18,9 @@ print_info() {
     info "Shell" shell
     info "DE" de
     info "WM" wm
+    info "WM Theme" wm_theme
+    info "Terminal" term
+    info "Terminal Font" term_font
     info "CPU" cpu
     info "Memory" memory
 
